@@ -15,10 +15,15 @@ from .database import get_db
 from .models import UserProfile
 
 
-SECRET_KEY = os.environ.get(
-    "CREDORA_SECRET_KEY",
-    "development-only-change-this-credora-secret-key"
-)
+SECRET_KEY = os.environ.get("CREDORA_SECRET_KEY")
+
+if not SECRET_KEY:
+    if os.environ.get("RENDER"):
+        raise RuntimeError(
+            "CREDORA_SECRET_KEY must be configured in production."
+        )
+
+    SECRET_KEY = "development-only-change-this-credora-secret-key"
 
 ALGORITHM = "HS256"
 TOKEN_EXPIRE_SECONDS = 60 * 60 * 24 * 7
