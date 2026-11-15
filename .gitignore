@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+# Local databases
+*.db
+
+# Uploaded resumes and files
+backend/uploads/
