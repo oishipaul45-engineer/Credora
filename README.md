@@ -1,184 +1,107 @@
  <div align="center">
 
-# <span style="color:#20202b;">✳ CRED</span><span style="color:#8B72D9;">ORA</span>
+# ✦ CREDORA
 
-### <span style="color:#8B72D9;">YOUR POTENTIAL DESERVES A PLATFORM.</span>
+### YOUR CREDENTIALS. YOUR IDENTITY. YOUR PROFESSIONAL WORKSPACE.
 
-**Not just another resume builder. A workspace for everything you're becoming.**
-
-<span style="color:#E58B36;">Discover.</span> <span style="color:#8B72D9;">Develop.</span> <span style="color:#77964B;">Advance.</span>
-
-Your skills. Your direction. Your next chapter.
+*A smarter space to discover your skills, understand your potential, and shape your career.*
 
 <br/>
 
-[![React](https://img.shields.io/badge/React-20202B?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev/)
+[![React](https://img.shields.io/badge/React-20202b?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-20202b?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-20202b?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com/)
+[![Python](https://img.shields.io/badge/Python-20202b?style=for-the-badge&logo=python&logoColor=FFD43B)](https://www.python.org/)
+[![Vite](https://img.shields.io/badge/Vite-20202b?style=for-the-badge&logo=vite&logoColor=646CFF)](https://vite.dev/)
 
-<br/>
-
-<a href="https://github.com/oishipaul45-engineer/Credora">
-  <strong>EXPLORE CREDORA ↗</strong>
-</a>
+**A career workspace that sees more than just a resume.**
 
 </div>
 
 ---
 
-<div align="center">
+## ✳ THE IDEA
 
-### <span style="color:#8B72D9;">01 / THE IDEA</span>
+A resume tells people what you have done.
 
-</div>
+But what about what you can do next?
 
-# A career is more than a resume.
+What skills are you missing? Which opportunities match your current abilities? What should you learn to reach your career goals?
 
-<span style="color:#E58B36;">A resume tells people where you've been.</span>
+**Credora is built around these questions.**
 
-<span style="color:#8B72D9;">Credora helps you explore where you could go.</span>
-
-Credora is a career development platform designed to connect your professional identity, resume, skills, career opportunities and learning journey in one workspace.
-
-It helps you understand your current capabilities, recognize skill gaps and explore meaningful next steps towards your professional goals.
+It brings your professional profile, resume insights, skill development, job matching and career planning into one thoughtfully designed workspace.
 
 ---
 
-<div align="center">
+## ◇ EXPLORE CREDORA
 
-### <span style="color:#8B72D9;">02 / YOUR WORKSPACE</span>
-
-# Explore your possibilities.
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◉ <span style="color:#8B72D9;">YOUR IDENTITY</span></h3>
-
-Your professional space starts here.
-
-Create an account, build your profile and bring your professional information together.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>✳ <span style="color:#E58B36;">RESUME INTELLIGENCE</span></h3>
-
-More than uploading a document.
-
-Upload PDF or DOCX resumes, extract relevant information and discover skills from your experience.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>◈ <span style="color:#557DBD;">SKILL STUDIO</span></h3>
-
-Know what you bring to the table.
-
-Add, organize, update and manage professional skills with categories and proficiency levels.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>↗ <span style="color:#77964B;">JOB MATCHING</span></h3>
-
-Find where your skills can take you.
-
-Compare your skills against career-role requirements and identify areas to improve.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>✺ <span style="color:#8B72D9;">CAREER ROADMAP</span></h3>
-
-There is no one straight line.
-
-Explore career-oriented learning paths, discover skills to develop and track your progress.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>◎ <span style="color:#E58B36;">CAREER INSIGHTS</span></h3>
-
-See your progress differently.
-
-Explore your professional profile and understand your development journey.
-
-</td>
-</tr>
-</table>
+| Experience | What it does |
+|:--|:--|
+| 📄 **Resume Analysis** | Upload a PDF or DOCX resume, extract relevant information and identify skills. |
+| 🧩 **Skill Management** | Build and manage your professional skill profile. |
+| 🎯 **Job Matching** | Explore career roles, compare your skills against role requirements and identify skill gaps. |
+| 🗺️ **Career Roadmap** | Explore career directions and track your learning progress. |
+| 👤 **Professional Profile** | Keep your professional information organised in one place. |
+| 🔐 **Authentication** | Access your personal workspace through account authentication. |
 
 ---
 
-<div align="center">
+## ✦ THE CREDORA EXPERIENCE
 
-### <span style="color:#8B72D9;">03 / THE CREDORA JOURNEY</span>
+### 01 — Upload. Discover.
 
-# From potential to progress.
+Your resume is more than a document.
 
-</div>
+Upload it and let Credora extract useful professional information and identify skills that can contribute to your profile.
 
-<div align="center">
+### 02 — Understand. Match.
 
-| STAGE | YOUR JOURNEY |
-|:---:|:---|
-| <span style="color:#8B72D9;">01</span> | ◉ Build your professional identity |
-| <span style="color:#E58B36;">02</span> | ✳ Discover skills through your resume |
-| <span style="color:#557DBD;">03</span> | ◈ Understand your strengths |
-| <span style="color:#77964B;">04</span> | ↗ Explore job opportunities |
-| <span style="color:#8B72D9;">05</span> | ✺ Plan your career development |
-| ★ | **Take your next step** |
+Explore career roles and see how your existing skills align with different opportunities.
 
-### One workspace. A clearer direction.
+Discover the skills you may need to develop next.
 
-</div>
+### 03 — Plan. Progress.
 
----
+Explore career pathways, break your goals into learning stages and track your progress.
 
-<div align="center">
+### 04 — Build. Grow.
 
-### <span style="color:#8B72D9;">04 / THE TECHNOLOGY</span>
-
-# Thoughtfully built. Purposefully connected.
-
-</div>
-
-<div align="center">
-
-**<span style="color:#8B72D9;">FRONTEND</span>**
-
-[![React](https://img.shields.io/badge/React-20202B?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev/)
-[![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-**<span style="color:#E58B36;">BACKEND</span>**
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://www.sqlalchemy.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-
-</div>
+Keep your professional identity organised as your skills and experience evolve.
 
 ---
 
-<div align="center">
+## 🎨 DESIGNED WITH INTENTION
 
-### <span style="color:#8B72D9;">05 / THE ARCHITECTURE</span>
+Credora isn't built to look like another ordinary dashboard.
 
-# Under the hood.
+Its visual identity uses:
 
-</div>
+- Warm cream backgrounds
+- Deep navy typography
+- Orange, lavender, blue and lime accents
+- Space Grotesk and DM Sans typography
+- Clean cards, structured layouts and subtle cosmic-inspired details
+
+The goal is simple: make career development feel less overwhelming and more personal.
+
+---
+
+## ⚙️ THE TECHNOLOGY BEHIND CREDORA
+
+| Layer | Technologies |
+|:--|:--|
+| Frontend | React, TypeScript, Vite |
+| Styling | CSS |
+| Backend | Python, FastAPI |
+| Database | SQLite |
+| ORM | SQLAlchemy |
+| Authentication | Token-based authentication |
+| Resume Processing | PDF and DOCX parsing |
+
+---
+
+## 🏗️ PROJECT STRUCTURE
 
 ```text
 Credora/
@@ -191,65 +114,55 @@ Credora/
 │   │   │   ├── skills.py
 │   │   │   ├── resume.py
 │   │   │   └── job_matching.py
-│   │   ├── database.py
-│   │   ├── main.py
+│   │   │
 │   │   ├── models.py
-│   │   ├── schemas.py
-│   │   └── security.py
+│   │   ├── database.py
+│   │   └── main.py
+│   │
 │   └── requirements.txt
 │
 ├── frontend/
-│   ├── public/
-│   └── src/
-│       ├── assets/
-│       ├── App.tsx
-│       ├── App.css
-│       ├── CareerRoadmap.tsx
-│       ├── JobMatching.tsx
-│       ├── PersonalizedRoadmap.tsx
-│       ├── ResumeUpload.tsx
-│       └── index.css
+│   ├── src/
+│   │   ├── App.tsx
+│   │   ├── App.css
+│   │   ├── ResumeUpload.tsx
+│   │   └── JobMatching.tsx
+│   │
+│   └── package.json
 │
+├── .gitignore
 └── README.md
 ```
 
-**Architecture:** React frontend → FastAPI REST API → SQLAlchemy database layer.
-
-Current local development database: SQLite.
-
 ---
 
-<div align="center">
+## 🚀 GETTING STARTED
 
-### <span style="color:#8B72D9;">06 / GET STARTED</span>
+Want to explore Credora locally?
 
-# Your journey starts here.
-
-</div>
-
-### <span style="color:#E58B36;">01 — Prerequisites</span>
-
-Make sure you have:
-
-- Python 3.10 or newer
-- Node.js and npm
-- Git
-
-### <span style="color:#8B72D9;">02 — Clone Credora</span>
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/oishipaul45-engineer/Credora.git
+```
+
+```bash
 cd Credora
 ```
 
-### <span style="color:#557DBD;">03 — Start the backend</span>
+### 2. Set up the backend
 
 ```bash
 cd backend
+```
+
+Create a virtual environment:
+
+```bash
 python -m venv .venv
 ```
 
-Activate your environment on Windows PowerShell:
+Activate it on Windows:
 
 ```powershell
 .\.venv\Scripts\Activate.ps1
@@ -261,79 +174,79 @@ Install dependencies:
 python -m pip install -r requirements.txt
 ```
 
-Run the backend:
+Start the backend:
 
 ```bash
 python -m uvicorn app.main:app --reload
 ```
 
-Backend URL: `http://127.0.0.1:8000`
+Backend API:
 
-API documentation: `http://127.0.0.1:8000/docs`
+`http://127.0.0.1:8000`
 
-### <span style="color:#77964B;">04 — Start the frontend</span>
+API documentation:
+
+`http://127.0.0.1:8000/docs`
+
+### 3. Set up the frontend
 
 Open a second terminal:
 
 ```bash
 cd frontend
+```
+
+Install dependencies:
+
+```bash
 npm install
+```
+
+Start the development server:
+
+```bash
 npm run dev
 ```
 
-Open the local URL displayed by Vite.
+Open the local URL displayed in your terminal.
+
+---
+
+## 🌱 WHAT'S NEXT?
+
+Credora is a growing project. Some directions for future development include:
+
+- More personalised career recommendations
+- Expanded job-role and skill databases
+- Advanced resume insights
+- Improved career progression tracking
+- Cloud database and file storage
+- Production deployment
+
+---
+
+## 💭 OUR PHILOSOPHY
+
+> Your career isn't a straight line.
+>
+> It's a landscape of possibilities.
+
+Credora is built on the idea that professional growth should be understandable, accessible and continuous.
+
+Not just another resume.
+
+**A space to build what comes next.**
 
 ---
 
 <div align="center">
 
-### <span style="color:#8B72D9;">07 / WHAT'S NEXT</span>
+### ✦ CREDORA
 
-# The journey keeps evolving.
+**Discover your skills. Define your direction. Build your future.**
 
-</div>
+Made with curiosity, creativity and code.
 
-Credora is an evolving project, with room to grow beyond its current capabilities.
-
-| <span style="color:#E58B36;">Future direction</span> | <span style="color:#8B72D9;">Possibility</span> |
-|---|---|
-| Resume feedback | More advanced resume analysis |
-| Job recommendations | Smarter role matching |
-| Job market | Live opportunity integration |
-| Skill intelligence | Deeper skill-gap analysis |
-| Learning | Expanded learning resources |
-| Infrastructure | Cloud storage and production scalability |
-
----
-
-<div align="center">
-
-### <span style="color:#8B72D9;">08 / THE PHILOSOPHY</span>
-
-# There is no one straight line.
-
-<span style="color:#E58B36;">Your career isn't a destination.</span>
-
-<span style="color:#8B72D9;">It's a landscape you get to explore.</span>
-
-We believe professional growth is a continuous journey of discovering strengths, recognizing opportunities and building towards something bigger.
-
-<br/>
-
-# ✳ CREDORA
-
-### <span style="color:#8B72D9;">YOUR CREDENTIALS. YOUR IDENTITY.</span>
-
-### <span style="color:#E58B36;">YOUR PROFESSIONAL WORKSPACE.</span>
-
-<br/>
-
-**Built with curiosity. Designed for growth.**
-
-[EXPLORE THE REPOSITORY ↗](https://github.com/oishipaul45-engineer/Credora)
-
-<br/>
-
-<sub>Created by Oishi Paul</sub>
+[GitHub Repository](https://github.com/oishipaul45-engineer/Credora)
 
 </div>
