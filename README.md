@@ -8,6 +8,10 @@
 
 <br/>
 
+🚀 **[LIVE DEMO — EXPLORE CREDORA](https://credora-connect.vercel.app/)**
+
+<br/>
+
 [![React](https://img.shields.io/badge/React-20202b?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-20202b?style=for-the-badge&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-20202b?style=for-the-badge&logo=fastapi&logoColor=009688)](https://fastapi.tiangolo.com/)
